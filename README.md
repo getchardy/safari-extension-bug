@@ -15,9 +15,9 @@ When the following conditions are true, then `tabs.onUpdated` handlers will not 
 
 ## Demo Video
 
-Demo video here: [https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov](https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov)
-
 (Firefox: Right-click -> "Save Link As...")
+
+Demo video here: [https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov](https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov)
 
 ## How to reproduce
 
