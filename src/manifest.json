@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "Test App",
+  "description": "Test App to repro tabs.onUpdated bug.",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.anonyome.com/"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon-48.png"
+  }
+}
