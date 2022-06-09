@@ -13,6 +13,12 @@ When the following conditions are true, then `tabs.onUpdated` handlers will not 
 1. There is a content script defined in manifest.json.
 2. The user has navigated to an extension page, e.g. `safari-web-extension://<uuid>/index.html`
 
+## Demo Video
+
+Demo video here: [https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov](https://github.com/getchardy/safari-extension-bug/raw/main/demo.mov)
+
+(Firefox: Right-click -> "Save Link As...")
+
 ## How to reproduce
 
 Step 1: Using XCode 13.3, generate the Safari extension:
