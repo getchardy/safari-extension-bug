@@ -1,3 +1,5 @@
+([Found this useful? - Please give us a thumb here](https://github.com/getchardy/safari-extension-bug/issues/1))
+
 ## Introduction
 
 This sample project illustrates a bug that we started noticing in Safari 15.4.
