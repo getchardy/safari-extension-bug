@@ -1,4 +1,4 @@
-([Found this useful? - can we get a thumbs up?](https://github.com/getchardy/safari-extension-bug/issues/1))
+([Found this useful? Can we get a thumbs up?](https://github.com/getchardy/safari-extension-bug/issues/1))
 
 ## Introduction
 
