@@ -1,4 +1,8 @@
-([Found this useful? Can we get a thumbs up?](https://github.com/getchardy/safari-extension-bug/issues/1))
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+Are you looking for the Manifest 3 Service Worker Crash bug? It's here:    
+https://github.com/getchardy/safari-extension-bug-service-worker-crash   
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
 
 ## Introduction
 
